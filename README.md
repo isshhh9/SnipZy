@@ -1,4 +1,4 @@
-#SnipZy
+# SnipZy
 A modern full-stack video-sharing platform built with Next.js and ImageKit, allowing users to upload and browse video content seamlessly. Designed with a focus on performance, responsive UI, and cloud-based media delivery.
 
 🔧 Anyone can upload a video. All videos are publicly viewable across the platform.
